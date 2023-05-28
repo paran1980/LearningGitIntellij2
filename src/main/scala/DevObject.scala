@@ -15,6 +15,8 @@ object DevObject {
     //checkin from bharathi parandhaman forked master branch
     //change 12
     print("Dev object line 6  - Bharathi parandhaman-456")
+    print("first line ad000ded from feature branch")
+    print("Second line added from feature branch")
 
     print("new line1 from master")
     print("new line2 from master")
