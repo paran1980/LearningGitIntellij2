@@ -16,5 +16,7 @@ object DevObject {
     //change 12
     print("Dev object line 6  - Bharathi parandhaman-456")
 
+    print("new line1 from master")
+    print("new line2 from master")
   }
 }
